@@ -206,7 +206,7 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
     ![](../media/sign.png)
 
-### Task 2.7: View Pricvacy policies for Copilot for Sales
+### Task 2.7: View Privacy policies for Copilot for Sales
 
 1.	Open **Copilot for Sales**.
 
