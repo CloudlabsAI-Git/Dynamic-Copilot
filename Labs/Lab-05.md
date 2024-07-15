@@ -162,7 +162,7 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
 1.	Select **Copy details** to copy the diagnostics data, and then paste the data into an email, Teams chat, or any other medium you like to use to share it with technical support team.
 
-    ![](../media/dy8.png)
+    ![](../media/dyn29.png)
 
 ### Task 2.3: Share Feedback
 
@@ -212,11 +212,11 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
 1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy policy**. To view Microsoft Privacy policies.
 
-    ![](../media/dy11.png)
+    ![](../media/dyn30.png)
 
-1.	Select **Delete Account**.
+   
 
-      ![](../media/dy12.png)
+      ![](../media/dyn41.png)
 
 ## Review
 
