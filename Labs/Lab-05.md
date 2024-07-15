@@ -214,7 +214,7 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
     ![](../media/dyn30.png)
 
-1.	 **Microsoft privacy policies documentation**.
+1.	**Microsoft privacy policies documentation**.
  
       ![](../media/dyn41.png)
    
